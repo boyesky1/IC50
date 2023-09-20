@@ -1,0 +1,51 @@
+﻿Chemical Name,Smiles
+Sodium cyclamate,O=S(=O)([O-])NC1CCCCC1.[Na+]
+Acesulfame,CC1=CC(=O)[N-]S(=O)(=O)O1.[K+]
+Sucralose,C(C1C(C(C(C(O1)OC2(C(C(C(O2)CCl)O)O)CCl)O)O)Cl)O
+Neotame,COC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(=O)O)NCCC(C)(C)C
+Saccharin,O=C1NS(=O)(=O)c2ccccc21
+Soluble saccharin,O=C1[N-]S(=O)(=O)c2ccccc21.[Na+]
+Aspartame,[Br-].[Br-].c1cc2cc(c1)C[n+]1cn(c3ccccc31)Cc1cc3ccccc3nc1Oc1ccccc1Oc1nc3ccccc3cc1Cn1c[n+](c3ccccc31)C2
+Altanle,C[C@@H](NC(=O)[C@@H](N)CC(=O)O)C(=O)NC1C(C)(C)SC1(C)C
+Steviol glycosides,C=C1C[C@@]23CC[C@H]4[C@@](C)(CCC[C@@]4(C)C(=O)O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H]2CC[C@]1(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C3
+Advantame,COC1=C(C=C(C=C1)CCCNC(CC(=O)O)C(=O)NC(CC2=CC=CC=C2)C(=O)OC)O.O
+Potassium sorbate,CC=CC=CC(=O)[O-].[K+]
+Sorbic Acid,CC=CC=CC(=O)O
+Benzoic acid,C1=CC=C(C=C1)C(=O)O
+Potassium nitrite,N(=O)[O-].[K+]
+Sodium nitrite,N(=O)[O-].[Na+]
+Potassium metabisulfite,[O-]S(=O)S(=O)(=O)[O-].[K+].[K+]
+Sodium metabisulfite,[O-]S(=O)S(=O)(=O)[O-].[Na+].[Na+]
+Anhydrous sodium sulfate,[O-]S(=O)[O-].[Na+].[Na+]
+Sodium bisulfite,OS(=O)[O-].[Na+]
+Sulfur dioxide,O=S=O
+biphenyl-2-ol,C1=CC=C(C=C1)C2=CC=CC=C2O
+Nisin,C=C(NC(=O)[C@@H](NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H](NC(=O)[C@H](CO)NC(=O)[C@@H]1CS[C@@H](C)[C@H]2NC(=O)C(=C)NC(=O)[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H]3CS[C@@H](C)[C@@H](NC(=O)[C@H](CCCNN)NC(=O)[C@@H]4CS[C@@H](C)[C@@H](NC(=O)[C@@H]5CSC[C@@H](NC(=O)/C(=C\C)NC(=O)[C@@H](N)[C@@H](C)CC)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NC(=C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N5)C(=O)N5CCC[C@H]5C(=O)NCC(=O)N4)C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCSC)C(=O)NCC(=O)N3)[C@H](C)SC[C@H](NC2=O)C(=O)N[C@H](Cc2cnc[nH]2)C(=O)N1)[C@@H](C)CC)C(C)C)C(=O)N[C@@H](CCCCN)C(=O)O
+Propyl gallate??PG,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O
+Ethylenediaminetetraacetic acid disodium salt,C(CN(CC(=O)O)CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].[Na+].[Na+]
+Nordihydroguaiareticacid,COc1ccccc1C1(O)CCN(CCCn2c3ccccc3c3ccccc32)CC1
+Pimaricin,CC1CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC3C(O3)C=CC(=O)O1)O)O)O)C(=O)O)OC4C(C(C(C(O4)C)O)N)O
+Curcumin,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O
+ Indigo,C1=CC2=C(C=C1S(=O)(=O)[O-])C(=C(N2)C3=NC4=C(C3=O)C=C(C=C4)S(=O)(=O)[O-])O.[Na+].[Na+]
+Acid Red 27,C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N=NC3=C4C=CC(=CC4=CC(=C3O)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+]
+ Carmine,CC1=C2C(=CC(=C1C(=O)O)O)C(=O)C3=C(C2=O)C(=C(C(=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O
+Quinoline?Yellow,CC1=C2C(=CC(=C1C(=O)O)O)C(=O)C3=C(C2=O)C(=C(C(=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O
+Caramel,CC1CC(C(=O)C1=O)C
+Riboflavin,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O
+BrilliantBlueFCF,CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=CC=C5S(=O)(=O)[O-].[Na+].[Na+]
+Allura red ac,CC1=CC(=C(C=C1S(=O)(=O)[O-])OC)N=NC2=C(C=CC3=C2C=CC(=C3)S(=O)(=O)[O-])O.[Na+].[Na+]
+Tartrazine,C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+]
+"1,2-Propanediol",CC(CO)O
+Propylene glycol alginate,CC(CO)O
+Span 20,CCCCCCCCCCCC(=O)OCC(C1C(C(CO1)O)O)O
+Span 80,CCCCCCCCC=CCCCCCCCC(=O)OCC(C1C(C(CO1)O)O)O
+Span 40,CCCCCCCCCCCCCCCC(=O)OCC(C1C(C(CO1)O)O)O
+Span 60,CCCCCCCCCCCCCCCCCC(=O)OCC(C1C(C(CO1)O)O)O
+sorbitan tristearate,CCCCCCCCCCCCCCCCCC(=O)OC1COC(C1OC(=O)CCCCCCCCCCCCCCCCC)C(CO)OC(=O)CCCCCCCCCCCCCCCCC
+Docusate sodium,CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(=O)(=O)[O-].[Na+]
+Polydimethylsiloxane,CO[Si](C)(C)O[Si](C)(C)C.O=[Si]=O
+Polysorbate,CCCCCCCCC=CCCCCCCCC(=O)OCCOCC(C1C(C(CO1)OCCO)OCCO)OCCO
+L(+)-tartaric acid,C(C(C(=O)O)O)(C(=O)O)O
+Oxalic acid,C(CCC(=O)O)CC(=O)O
+Benzaldehyde,C1=CC=C(C=C1)C=O
+Allyl hexanoate,CCCCCC(=O)OCC=C
